@@ -3,3 +3,7 @@ bin/
 # Package Files #
 *.war
 *.ear
+
+# Idea
+.idea
+*.iml
